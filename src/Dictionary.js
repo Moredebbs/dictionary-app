@@ -14,7 +14,6 @@ export default function Dictionary(props) {
     setResults(response.data[0]);
   }
   function handleImgResponse(response) {
-    console.log(response);
     setPhotos(response.data.photos);
   }
 
