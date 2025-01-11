@@ -1,3 +1,10 @@
+body {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #841b44;
+}
 .App-header {
   margin: 30px 0;
 }
